@@ -20,5 +20,5 @@ For classification problem, the F1 score is found to be important than the accur
 From the analysis it was seen that LogisticRegression, SVC performed better than the others.
 
 ## Feature importances
-![pie]()
+![pie](https://github.com/Sandeep4168/Prediction-of-Heart-Disease/blob/main/Figure_15.png)
 
