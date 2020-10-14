@@ -1,4 +1,13 @@
 # Prediction-of-Heart-Disease
-The Current data comprimises of various life style and health conditions which can have a impact on the heart condition.
-![heart](https://github.com/Sandeep4168/Prediction-of-Heart-Disease/blob/main/CardiacArrest-1200x630.jpg)
-the curent repository aims to provide information on classification of heart condition being positive or negative based on the lifestyle ans health conitions.
+# Goal
+Bad diet and lack of excercise can be a very bad thing for your heart, from the current data consisting of health conditions and life style, one can predict the heart disease.
+
+
+# Steps
+..* Data reading from csv file
+..* Handling Missing Data
+..* Exploratory Data Analysis
+..* Fitting the ML model for Classification
+..* Evaluating the ML models
+..* Data insights 
+
