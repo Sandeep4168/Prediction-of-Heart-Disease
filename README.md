@@ -16,9 +16,13 @@ For classification problem, the F1 score is found to be important than the accur
 * Logistic regression: 0.92
 * SVC: 0.92
 * DecisionTree:0.86
-* RandomForest:0.92
+* RandomForest:0.92  
+
+
 From the analysis it was seen that LogisticRegression, SVC performed better than the others.
 
 ## Feature importances
 ![pie](https://github.com/Sandeep4168/Prediction-of-Heart-Disease/blob/main/Figure_15.png)
 
+
+From the pie chart, the Glucose levels, BMI and Blood Pressure has the higher impact on the getting the heart disease.
